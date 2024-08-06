@@ -15,15 +15,15 @@
 ### Данные для работы 
 
 Приложение доступно по адресу:
-localhost:8000
+*localhost:8000*
 
 PhpMyAdmin по адресу:
-localhost:8001
+*localhost:8001*
 
-Вход в phpMyAdmin
+Вход в phpMyAdmin:
 
-Сервер: db
+Сервер: **db**
 
-Пользователь: root
+Пользователь: **root**
 
-Пароль: root
+Пароль: **root**
