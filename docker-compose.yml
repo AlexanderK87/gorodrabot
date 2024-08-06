@@ -35,7 +35,7 @@ services:
       image: phpmyadmin:latest
       restart: always
       ports:
-          - 8080:80
+          - 8001:80
       environment:
           - PMA_ARBITRARY=1
       container_name: project_phpmyadmin
